@@ -1,9 +1,9 @@
-body{font-size: 16px; font-family: monospace; color: #000001; background: #9473AB; padding: 20px; margin: 0px;}
+body{font-size: 16px; font-family: monospace; color: #000001; font-weight: bold; background: #9473AB; padding: 20px; margin: 0px;}
 td {padding: 15px; background: #584566; border: 2px solid #2A2333; text-align: center; vertical-align: top;}
 table {border-collapse: collapse;}
 h1{font-size: 33px;}
 h1, p {margin-top: 15px; margin-bottom: 15px; padding: 0px;}
-a {color: #2A2333;}
+a {color: #FFFFFF;}
 a:hover {color: #DDACFF; font-weight: bold;}
 img {border: 5px solid #2A2333;}
 .doctor-main-page td {padding: 10px;}
